@@ -1,6 +1,8 @@
-<h1 align="center">I wish you a great day❤️</h1>
+# I wish you a great day❤️
 
-Currently working on **cross platform Soundpad-like app**
+Currently working on [**cross platform Soundpad-like app**](https://github.com/Kavacup/Mic-Audio-Player)
+
+## Skills
 
 <div>
   <div>
@@ -25,14 +27,14 @@ Currently working on **cross platform Soundpad-like app**
     </p>
   </div>
   <div>
-    <p>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavacup&show_icons=true&locale=en&layout=compact" alt="kavacup" />
-    </p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavacup&show_icons=true&locale=en&layout=compact" alt="kavacup" />
   </div>
 </div>
 
-<div align="center">
+## Some music for you
+
+<div align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0p97b485jluxss1uyo89er5f5&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0p97b485jluxss1uyo89er5f5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0p97b485jluxss1uyo89er5f5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </div>
