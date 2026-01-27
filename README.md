@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">I wish you a great day❤️</h1>
 
-<!--
-**Kavacup/Kavacup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on **cross platform Soundpad-like app**
 
-Here are some ideas to get you started:
+<div>
+  <div>
+    <h3 align="left">Best with:</h3>
+    <p align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </p>
+  </div>
+  <div>
+    <h3 align="left">Use those:</h3>
+    <p align="left">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    </p>
+  </div>
+  <div>
+    <p>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavacup&show_icons=true&locale=en&layout=compact" alt="kavacup" />
+    </p>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0p97b485jluxss1uyo89er5f5&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0p97b485jluxss1uyo89er5f5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</div>
