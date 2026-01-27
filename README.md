@@ -27,7 +27,7 @@ Currently working on [**cross platform Soundpad-like app**](https://github.com/K
     </p>
   </div>
   <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavacup&show_icons=true&locale=en&layout=compact" alt="kavacup" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavacup&show_icons=true&hide_rank=true&locale=en&theme=tokyonight&layout=donut&hide=jupyter%20notebook" alt="kavacup" />
   </div>
 </div>
 
