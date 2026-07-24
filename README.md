@@ -1,40 +1,47 @@
-# I wish you a great day❤️
-
-Currently working on [**cross platform Soundpad-like app**](https://github.com/Kavacup/Mic-Audio-Player)
-
-## Skills
-
-<div>
-  <div>
-    <h3 align="left">Best with:</h3>
-    <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </p>
-  </div>
-  <div>
-    <h3 align="left">Use those:</h3>
-    <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    </p>
-  </div>
-  <div>
-      <img src="https://github-readme-stats-zeta-five-22.vercel.app/api/top-langs?username=kavacup&show_icons=true&hide_rank=true&locale=en&theme=tokyonight&layout=donut&hide=jupyter%20notebook" alt="kavacup" />
-  </div>
+<div style="display: flex; justify-content: center;">
+    <img src="./misc/welcome.gif" alt="Welcome"/>
 </div>
 
-## Some music for you
+# 👋 Hey, I’m Andrew
 
-<div align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0p97b485jluxss1uyo89er5f5&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0p97b485jluxss1uyo89er5f5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</div>
+> **Backend & cross‑platform developer** · Kotlin · Java · C++
+
+---
+
+## 🚀 Currently working on
+
+[**Public social-media-like map**](https://github.com/Kavacup/MyCityMap)
+*Map where you can decribe any place, leave reviews and share ideas*
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Databases & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<img align="left" src="https://github-stats-extended-two-flame.vercel.app/api/top-langs?username=kavacup&show_icons=true&hide_rank=false&locale=en&theme=tokyonight&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
+<br clear="both"/>
+
+---
