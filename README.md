@@ -13,6 +13,9 @@
 [**Public social-media-like map**](https://github.com/Kavacup/MyCityMap)
 *Map where you can decribe any place, leave reviews and share ideas*
 
+[**Exposed wrapper for postgis**](https://github.com/Kavacup/exposed-postgis)
+*Introduces Postgis geometry types and functions as part of Exposed DSL*
+
 ---
 
 ## 🧰 Tech Stack
